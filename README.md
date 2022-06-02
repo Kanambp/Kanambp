@@ -2,8 +2,6 @@
 <div align="center">
         <img src="https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg" alt="GIF" width="250" height="250"/>
 </p>
-
-<a href="#"><img title="Mr.Kanambo" src="https://img.shields.io/badge/Kanambo-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 </p>
